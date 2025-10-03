@@ -39,22 +39,6 @@ It demonstrates full-stack development capabilities with **authentication, RESTf
 
 ---
 
-## 🗂️ Project Structure
-gym-website/
-│
-├─ frontend/ # React + Vite frontend
-│ ├─ src/
-│ ├─ public/
-│ └─ package.json
-│
-├─ backend/ # Node.js + Express backend
-│ ├─ models/
-│ ├─ routes/
-│ ├─ server.js
-│ └─ package.json
-│
-└─ README.md
---
 ## 🛠️ Tech Stack
 
 **Frontend:**  
