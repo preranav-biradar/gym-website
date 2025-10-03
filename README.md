@@ -79,5 +79,5 @@ cd gym-website
 Prerana Biradar
 ENTC Final Year, TCOER
 GitHub: https://github.com/preranav-biradar
-Portfolio: (Add link if you have one)
+Portfolio: https://regal-gumdrop-074d5b.netlify.app/
 
